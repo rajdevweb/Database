@@ -1,0 +1,10 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:x="urn:schemas-microsoft-com:office:word"
+            xmlns="http://www.w3.org/TR/REC-html40">
+
+            <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+            <html>
+            <head>
+                <meta http-equiv="Content-type" content="text/html;charset=utf-8" />
+            </head>
+            <body><h1>Database suzumaki</h1><h2>Table structure for table salesperson</h2><table width="100%" cellspacing="1"><tr class="print-category"><th class="print">Column</th><td class="print"><strong>Type</strong></td><td class="print"><strong>Null</strong></td><td class="print"><strong>Default</strong></td></tr><tr class="print-category"><td class="print">PK_SNo</td><td class="print">int(11)</td><td class="print">Yes</td><td class="print">NULL</td></tr><tr class="print-category"><td class="print">SNAME</td><td class="print">varchar(50)</td><td class="print">Yes</td><td class="print">NULL</td></tr><tr class="print-category"><td class="print">CITY</td><td class="print">varchar(100)</td><td class="print">Yes</td><td class="print">NULL</td></tr><tr class="print-category"><td class="print">COMM</td><td class="print">float</td><td class="print">Yes</td><td class="print">NULL</td></tr></table><h2>Dumping data for table salesperson</h2><table width="100%" cellspacing="1"><tr class="print-category"><td class="print">1001</td><td class="print">Peel</td><td class="print">London</td><td class="print">0.12</td></tr><tr class="print-category"><td class="print">1004</td><td class="print">Motika</td><td class="print">London</td><td class="print">0.11</td></tr><tr class="print-category"><td class="print">1003</td><td class="print">Axerlord</td><td class="print">New York</td><td class="print">0.1</td></tr></table></body></html>
